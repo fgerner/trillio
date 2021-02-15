@@ -5,6 +5,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sass/_base.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_base.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/_compontents.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_compontents.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/sass/_layout.scss" beforeDir="false" afterPath="$PROJECT_DIR$/sass/_layout.scss" afterDir="false" />
     </list>
@@ -48,7 +49,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html">
@@ -100,7 +101,9 @@
       <workItem from="1612950004643" duration="3509000" />
       <workItem from="1613024847064" duration="6548000" />
       <workItem from="1613173700082" duration="2238000" />
-      <workItem from="1613202006488" duration="8402000" />
+      <workItem from="1613202006488" duration="15479000" />
+      <workItem from="1613296190667" duration="3603000" />
+      <workItem from="1613382274333" duration="1704000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1612862594349</created>
@@ -144,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613041714690</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="styling overview">
+      <created>1613256200434</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613256200434</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -168,6 +178,8 @@
     <MESSAGE value="styled user navigation" />
     <MESSAGE value="side navigation" />
     <MESSAGE value="styling sidebar" />
-    <option name="LAST_COMMIT_MESSAGE" value="styling sidebar" />
+    <MESSAGE value="styling overview" />
+    <MESSAGE value="styling detail section" />
+    <option name="LAST_COMMIT_MESSAGE" value="styling detail section" />
   </component>
 </project>
